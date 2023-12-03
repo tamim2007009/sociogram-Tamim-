@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView7" type="id" />
+    <item name="WelcomeText" type="id" />
+    <item name="textInputLayout3" type="id" />
+    <item name="textInputLayout2" type="id" />
+    <item name="nameET" type="id" />
+    <item name="textInputLayout1" type="id" />
+    <item name="signupBtn" type="id" />
+    <item name="profession" type="id" />
+    <item name="gotoLogin" type="id" />
+    <item name="diagonalLayout" type="id" />
+</resources>

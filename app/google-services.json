@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "288940799633",
+    "firebase_url": "https://socialmedia-360c4-default-rtdb.firebaseio.com",
+    "project_id": "socialmedia-360c4",
+    "storage_bucket": "socialmedia-360c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288940799633:android:7ef6862f8819239b9d3130",
+        "android_client_info": {
+          "package_name": "com.tamim.sociogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNZJz9-9CjN2oiSCr3fbxITMhHtYtn2Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
